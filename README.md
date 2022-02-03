@@ -1,4 +1,4 @@
-# wordle-notebook
+# Wordle notebook
 A Jupyter notebook about Wordle. 
 This is mostly an excuse for learning about Jupyter notebooks, Python, Pandas and Numpy.
 
