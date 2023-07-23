@@ -1,5 +1,5 @@
 # Wordle notebook
-A Jupyter notebook about Wordle. 
+A Jupyter notebook about Wordle and a simple solver. 
 This is mostly an excuse for learning about Jupyter notebooks, Python, Pandas and Numpy.
 
 Note that the solver do not interact directly with the game, it's supposed to be used manually by the user who follows the instructions and returns the results.  
